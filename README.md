@@ -27,7 +27,7 @@ Refer to the `Documentation/` directory for detailed instructions on how to set 
 
 ## Citation
 
-If you use this code or our methodology in your research, please cite our paper:
+If you use this code or our methodology in your research, please cite our paper. The paper can be accessed [here](https://www.researchgate.net/publication/371340182_IMPROVING_ACCURACY_AND_COMPUTATIONAL_EFFICIENCY_OF_OPTIMAL_DESIGN_OF_EXPERIMENTS_VIA_GREEDY_BACKWARD_APPROACH):
 
 Taghizadeh, M., Xiu, D., & Alemazkoor, N. (2024). Improving Accuracy and Computational Efficiency of Optimal Design of Experiments via Greedy Backward Approach. International Journal for Uncertainty Quantification, 4(6), 204-220. DOI: 10.1615/Int.J.UncertaintyQuantification.2023046204
 
