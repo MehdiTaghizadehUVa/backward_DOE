@@ -1,1 +1,43 @@
-# backward_DOE
+# Improving Accuracy and Computational Efficiency of Optimal Design of Experiments via Greedy Backward Approach
+
+## Overview
+This repository contains the implementation of the algorithms and methodologies presented in the paper "Improving Accuracy and Computational Efficiency of Optimal Design of Experiments via Greedy Backward Approach," published in the International Journal for Uncertainty Quantification in June 2024.
+
+## Paper Abstract
+Our research introduces a novel non-intrusive polynomial chaos expansion (PCE) technique, focusing on improving the efficiency and accuracy of surrogate model construction for uncertainty quantification. The proposed backward greedy algorithm deviates from traditional sample point selection strategies in Design of Experiments (DoEs), utilizing a coherence-optimal sample pool and selectively removing less influential samples. This method shows significant improvements in computational efficiency and robustness of DoEs, with various numerical examples demonstrating its efficacy.
+
+## Repository Content
+
+- `Algorithms/`: Implementation of the backward greedy algorithm as outlined in the paper.
+- `Examples/`: Sample scripts and datasets used for the numerical experiments in the paper.
+- `Documentation/`: Additional notes, algorithm descriptions, and usage guides.
+- `LICENSE`: Details of the licensing and usage rights.
+
+## Key Features
+
+- Implementation of the backward greedy algorithm for optimal DoEs.
+- Techniques for minimizing the curse of dimensionality in PCE.
+- Coherence-optimal sampling strategies.
+- Alphabetic optimality criteria (A-, D-, and S-optimality) implementations.
+- Comprehensive examples with different complexity and dimensionality.
+
+## Usage
+
+Refer to the `Documentation/` directory for detailed instructions on how to set up and run the algorithms and examples provided in this repository.
+
+## Citation
+
+If you use this code or our methodology in your research, please cite our paper:
+
+Taghizadeh, M., Xiu, D., & Alemazkoor, N. (2024). Improving Accuracy and Computational Efficiency of Optimal Design of Experiments via Greedy Backward Approach. International Journal for Uncertainty Quantification, 4(6), 204-220. DOI: 10.1615/Int.J.UncertaintyQuantification.2023046204
+
+
+## Contributors
+
+- Mehdi Taghizadeh (University of Virginia)
+- Dongbin Xiu (The Ohio State University)
+- Negin Alemazkoor (University of Virginia)
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
