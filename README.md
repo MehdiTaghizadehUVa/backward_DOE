@@ -21,10 +21,6 @@ Our research introduces a novel non-intrusive polynomial chaos expansion (PCE) t
 - Alphabetic optimality criteria (A-, D-, and S-optimality) implementations.
 - Comprehensive examples with different complexity and dimensionality.
 
-## Usage
-
-Refer to the `Documentation/` directory for detailed instructions on how to set up and run the algorithms and examples provided in this repository.
-
 ## Citation
 
 If you use this code or our methodology in your research, please cite our paper. The paper can be accessed [here](https://www.researchgate.net/publication/371340182_IMPROVING_ACCURACY_AND_COMPUTATIONAL_EFFICIENCY_OF_OPTIMAL_DESIGN_OF_EXPERIMENTS_VIA_GREEDY_BACKWARD_APPROACH):
@@ -37,7 +33,3 @@ Taghizadeh, M., Xiu, D., & Alemazkoor, N. (2024). Improving Accuracy and Computa
 - Mehdi Taghizadeh (University of Virginia)
 - Dongbin Xiu (The Ohio State University)
 - Negin Alemazkoor (University of Virginia)
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
