@@ -8,10 +8,9 @@ Our research introduces a novel non-intrusive polynomial chaos expansion (PCE) t
 
 ## Repository Content
 
-- `Algorithms/`: Implementation of the backward greedy algorithm as outlined in the paper.
-- `Examples/`: Sample scripts and datasets used for the numerical experiments in the paper.
-- `Documentation/`: Additional notes, algorithm descriptions, and usage guides.
-- `LICENSE`: Details of the licensing and usage rights.
+- `A-Optimally/`: Implementation of the backward and forward algorithms fo A-Optimality as outlined in the paper.
+- `D-Optimally/`: Implementation of the backward and forward algorithms fo D-Optimality as outlined in the paper.
+- `S-Optimally/`: Implementation of the backward and forward algorithms fo S-Optimality as outlined in the paper.
 
 ## Key Features
 
